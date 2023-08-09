@@ -6,4 +6,4 @@ jobs:
   init:
       runs-on: self-hosted
 env:
-   -run: echo 'hello Akhil how are you'
+   run: echo 'hello Akhil how are you'
