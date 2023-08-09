@@ -7,4 +7,3 @@ jobs:
       runs-on: self-hosted
       steps:
         -run: echo 'hello Akhil how are you'
-        -run: echo $HOSTNAME
